@@ -1,0 +1,42 @@
+
+/* style.css */
+
+/* Style for the entire page background */
+body {
+    background-color: #e9ecef; /* Light grey background for the entire page */
+    font-family: Arial, sans-serif; /* Consistent font style for the page */
+}
+
+/* Style for the demographic info card */
+.card.card-primary {
+    border: 1px solid #007BFF; /* Blue border color */
+    background-color: #ffffff; /* White background color */
+    padding: 10px; /* Inner spacing */
+    width: 100%; /* Full width */
+    font-size: 14px; /* Font size */
+    color: #333; /* Text color */
+    margin: 10px 0; /* Vertical spacing */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Style for the card header */
+.card-header {
+    background-color: #007BFF; /* Blue header background */
+    color: white; /* White text color */
+    padding: 10px; /* Inner spacing */
+    border-radius: 3px 3px 0 0; /* Rounded top corners */
+    font-size: 16px; /* Font size */
+}
+
+/* Style for the select box container */
+.card.card-body.bg-light {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #f8f9fa; /* Light background color */
+}
+
+/* Additional styling for the container */
+.container {
+    margin-top: 20px;
+}
